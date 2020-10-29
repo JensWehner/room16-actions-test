@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b
+    return 2*a + b
 
 
 def test_add():
